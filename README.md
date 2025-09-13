@@ -46,7 +46,6 @@ cd so2-calculator
 ### Тёмная тема
 ![Dark theme screenshot](doc/screenshots/dark.png)
 
-*(замени скриншоты на реальные после сохранения из браузера)*
 
 ---
 
