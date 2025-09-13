@@ -41,10 +41,10 @@ cd so2-calculator
 ## 📷 Скриншоты
 
 ### Светлая тема
-![Light theme screenshot](docs/screenshots/light.png)
+![Light theme screenshot](doc/screenshots/light.png)
 
 ### Тёмная тема
-![Dark theme screenshot](docs/screenshots/dark.png)
+![Dark theme screenshot](doc/screenshots/dark.png)
 
 *(замени скриншоты на реальные после сохранения из браузера)*
 
